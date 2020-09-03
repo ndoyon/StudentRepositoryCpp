@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="NdoyonProjC867"
+                   displayName="NdoyonProjC867"
+                   projectFiles="true">
+      <logicalFolder name=".vs" displayName=".vs" projectFiles="true">
+        <logicalFolder name="C867" displayName="C867" projectFiles="true">
+          <logicalFolder name="v16" displayName="v16" projectFiles="true">
+            <logicalFolder name="ipch" displayName="ipch" projectFiles="true">
+              <logicalFolder name="AutoPCH" displayName="AutoPCH" projectFiles="true">
+                <logicalFolder name="4245e17b9a9bfb7f"
+                               displayName="4245e17b9a9bfb7f"
+                               projectFiles="true">
+                  <itemPath>../NdoyonProjC867/.vs/C867/v16/ipch/AutoPCH/4245e17b9a9bfb7f/ROSTER.ipch</itemPath>
+                </logicalFolder>
+                <logicalFolder name="86f5becdfcf5dcc9"
+                               displayName="86f5becdfcf5dcc9"
+                               projectFiles="true">
+                  <itemPath>../NdoyonProjC867/.vs/C867/v16/ipch/AutoPCH/86f5becdfcf5dcc9/MAIN.ipch</itemPath>
+                </logicalFolder>
+                <logicalFolder name="b99433eb374ceaf3"
+                               displayName="b99433eb374ceaf3"
+                               projectFiles="true">
+                  <itemPath>../NdoyonProjC867/.vs/C867/v16/ipch/AutoPCH/b99433eb374ceaf3/STUDENT.ipch</itemPath>
+                </logicalFolder>
+              </logicalFolder>
+            </logicalFolder>
+            <itemPath>../NdoyonProjC867/.vs/C867/v16/.suo</itemPath>
+            <itemPath>../NdoyonProjC867/.vs/C867/v16/Browse.VC.db</itemPath>
+          </logicalFolder>
+        </logicalFolder>
+      </logicalFolder>
+      <logicalFolder name="Debug" displayName="Debug" projectFiles="true">
+        <logicalFolder name="C867.tlog" displayName="C867.tlog" projectFiles="true">
+          <itemPath>../NdoyonProjC867/Debug/C867.tlog/C867.lastbuildstate</itemPath>
+          <itemPath>../NdoyonProjC867/Debug/C867.tlog/CL.command.1.tlog</itemPath>
+          <itemPath>../NdoyonProjC867/Debug/C867.tlog/CL.read.1.tlog</itemPath>
+          <itemPath>../NdoyonProjC867/Debug/C867.tlog/CL.write.1.tlog</itemPath>
+          <itemPath>../NdoyonProjC867/Debug/C867.tlog/link.command.1.tlog</itemPath>
+          <itemPath>../NdoyonProjC867/Debug/C867.tlog/link.read.1.tlog</itemPath>
+          <itemPath>../NdoyonProjC867/Debug/C867.tlog/link.write.1.tlog</itemPath>
+        </logicalFolder>
+        <logicalFolder name="NdoyonProjC867.tlog"
+                       displayName="NdoyonProjC867.tlog"
+                       projectFiles="true">
+          <itemPath>../NdoyonProjC867/Debug/NdoyonProjC867.tlog/CL.command.1.tlog</itemPath>
+          <itemPath>../NdoyonProjC867/Debug/NdoyonProjC867.tlog/CL.read.1.tlog</itemPath>
+          <itemPath>../NdoyonProjC867/Debug/NdoyonProjC867.tlog/CL.write.1.tlog</itemPath>
+          <itemPath>../NdoyonProjC867/Debug/NdoyonProjC867.tlog/NdoyonProjC867.lastbuildstate</itemPath>
+          <itemPath>../NdoyonProjC867/Debug/NdoyonProjC867.tlog/link.command.1.tlog</itemPath>
+          <itemPath>../NdoyonProjC867/Debug/NdoyonProjC867.tlog/link.read.1.tlog</itemPath>
+          <itemPath>../NdoyonProjC867/Debug/NdoyonProjC867.tlog/link.write.1.tlog</itemPath>
+        </logicalFolder>
+        <itemPath>../NdoyonProjC867/Debug/C867.exe</itemPath>
+        <itemPath>../NdoyonProjC867/Debug/C867.ilk</itemPath>
+        <itemPath>../NdoyonProjC867/Debug/C867.log</itemPath>
+        <itemPath>../NdoyonProjC867/Debug/C867.pdb</itemPath>
+        <itemPath>../NdoyonProjC867/Debug/C867.vcxproj.FileListAbsolute.txt</itemPath>
+        <itemPath>../NdoyonProjC867/Debug/Test.obj</itemPath>
+        <itemPath>../NdoyonProjC867/Debug/main.obj</itemPath>
+        <itemPath>../NdoyonProjC867/Debug/roster.obj</itemPath>
+        <itemPath>../NdoyonProjC867/Debug/roster.obj.enc</itemPath>
+        <itemPath>../NdoyonProjC867/Debug/student.new.obj.enc</itemPath>
+        <itemPath>../NdoyonProjC867/Debug/student.obj</itemPath>
+        <itemPath>../NdoyonProjC867/Debug/vc142.idb</itemPath>
+        <itemPath>../NdoyonProjC867/Debug/vc142.pdb</itemPath>
+      </logicalFolder>
+      <itemPath>../NdoyonProjC867/C867.sln</itemPath>
+      <itemPath>../NdoyonProjC867/C867.vcxproj</itemPath>
+      <itemPath>../NdoyonProjC867/C867.vcxproj.filters</itemPath>
+      <itemPath>../NdoyonProjC867/C867.vcxproj.user</itemPath>
+      <itemPath>../NdoyonProjC867/degree.h</itemPath>
+      <itemPath>../NdoyonProjC867/main.cpp</itemPath>
+      <itemPath>../NdoyonProjC867/roster.cpp</itemPath>
+      <itemPath>../NdoyonProjC867/roster.h</itemPath>
+      <itemPath>../NdoyonProjC867/student.cpp</itemPath>
+      <itemPath>../NdoyonProjC867/student.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>../NdoyonProjC867</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="../NdoyonProjC867/.vs/C867/v16/.suo"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/.vs/C867/v16/Browse.VC.db"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/.vs/C867/v16/ipch/AutoPCH/4245e17b9a9bfb7f/ROSTER.ipch"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/.vs/C867/v16/ipch/AutoPCH/86f5becdfcf5dcc9/MAIN.ipch"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/.vs/C867/v16/ipch/AutoPCH/b99433eb374ceaf3/STUDENT.ipch"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/C867.sln" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/C867.vcxproj" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/C867.vcxproj.filters"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/C867.vcxproj.user"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.exe" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.ilk" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.log" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.pdb" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.tlog/C867.lastbuildstate"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.tlog/CL.command.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.tlog/CL.read.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.tlog/CL.write.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.tlog/link.command.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.tlog/link.read.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.tlog/link.write.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.vcxproj.FileListAbsolute.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/NdoyonProjC867.tlog/CL.command.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/NdoyonProjC867.tlog/CL.read.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/NdoyonProjC867.tlog/CL.write.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/NdoyonProjC867.tlog/NdoyonProjC867.lastbuildstate"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/NdoyonProjC867.tlog/link.command.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/NdoyonProjC867.tlog/link.read.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/NdoyonProjC867.tlog/link.write.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/Test.obj" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/main.obj" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/roster.obj" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/roster.obj.enc"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/student.new.obj.enc"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/student.obj"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/vc142.idb" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/vc142.pdb" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/degree.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/roster.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/roster.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/student.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/student.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="../NdoyonProjC867/.vs/C867/v16/.suo"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/.vs/C867/v16/Browse.VC.db"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/.vs/C867/v16/ipch/AutoPCH/4245e17b9a9bfb7f/ROSTER.ipch"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/.vs/C867/v16/ipch/AutoPCH/86f5becdfcf5dcc9/MAIN.ipch"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/.vs/C867/v16/ipch/AutoPCH/b99433eb374ceaf3/STUDENT.ipch"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/C867.sln" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/C867.vcxproj" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/C867.vcxproj.filters"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/C867.vcxproj.user"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.exe" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.ilk" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.log" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.pdb" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.tlog/C867.lastbuildstate"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.tlog/CL.command.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.tlog/CL.read.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.tlog/CL.write.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.tlog/link.command.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.tlog/link.read.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.tlog/link.write.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/C867.vcxproj.FileListAbsolute.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/NdoyonProjC867.tlog/CL.command.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/NdoyonProjC867.tlog/CL.read.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/NdoyonProjC867.tlog/CL.write.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/NdoyonProjC867.tlog/NdoyonProjC867.lastbuildstate"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/NdoyonProjC867.tlog/link.command.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/NdoyonProjC867.tlog/link.read.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/NdoyonProjC867.tlog/link.write.1.tlog"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/Test.obj" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/main.obj" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/roster.obj" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/roster.obj.enc"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/student.new.obj.enc"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/student.obj"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/vc142.idb" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/Debug/vc142.pdb" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/degree.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/roster.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/roster.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/student.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../NdoyonProjC867/student.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
